@@ -6,9 +6,10 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/charmbracelet/bubbles/filepicker"
+	//"github.com/charmbracelet/bubbles/filepicker".
 	"github.com/charmbracelet/bubbles/help"
 	tea "github.com/charmbracelet/bubbletea"
+	"github.com/charmbracelet/gum/file/filepicker"
 	"github.com/charmbracelet/gum/internal/timeout"
 	"github.com/charmbracelet/gum/style"
 )
